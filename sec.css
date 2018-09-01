@@ -1,0 +1,29 @@
+
+
+
+body
+{
+    font-family: "segoe ui light"
+}
+
+
+#wrapper{
+    background-color: gray;
+    height: 2px;
+    width: 1px;
+}
+
+h1{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    display: none;
+}
+.item{
+    display: none;
+}
+
+
+
+
+
+

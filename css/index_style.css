@@ -1,0 +1,304 @@
+
+.bg-light
+{
+    
+background-color: rgba(0,0,0,0.6) !important;   
+}
+
+.navbar-brand
+{
+    margin-left: 10%;
+}
+.navbar-collapse
+{
+        margin-left: 25%;
+    
+
+}
+
+.first
+{
+    
+    background-image: url(imgg/bg-parallax.jpg); 
+    min-height: 900px;
+    text-align: center;
+}
+.first .overlay 
+{
+   min-height: 900px; 
+    background-color: rgba(0,0,0,0.5);
+}
+
+.first .btn
+{
+background-color:  #f9461d !important;
+    color: aliceblue;
+    width: 230px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.first p
+{
+    font-size: 22px;
+        padding-top: 10%;        
+
+}
+
+.first h1
+{
+    padding-bottom: 10px;
+}
+.first h2
+{
+    padding-top: 10px;
+}
+
+
+.sec2
+{
+    background-color: #fcfcfc;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 50px;
+    
+}
+
+
+
+.sec3
+{
+    padding-top: 6%;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: white;
+}
+.sec3 h3
+{
+    font-size: 35px;
+}
+sec3 p1
+{
+    font-size: 20px;
+}
+
+
+.carousel slide
+{
+    height: 50px;
+}
+
+.container 
+{
+    padding-top: 50px;
+}
+.container p
+{
+    padding-top: 50px;
+    font-size: 18px;
+}
+.container p2
+{
+    padding-top: 20px;
+        font-size: 18px;
+
+}
+.container .btn
+{
+    background-color:  #f9461d !important;
+    margin-top: 30px;
+    
+}
+
+
+.cc
+{
+    
+        background-image: url(imgg/bg-fun-facts.jpg);
+        text-align: center;
+        height: 700px;
+        margin-top: 10%;
+}
+
+.cc h4
+{
+    font-size: 60px;
+    padding-top: 10%;
+}
+.cc p
+{
+    font-size: 30px;
+    
+}
+
+.cc .vv .dd .ss .pp
+{
+    overflow: hidden;
+    color: white;
+}
+
+.cc .vv
+{
+    
+    padding-left: 200px;
+    color: white;
+}
+.cc .vv
+{
+    float: left;
+    margin: 100px;
+    color: white;
+}
+.cc .dd
+{
+    float: left;
+    margin: 100px;
+    color: white;
+}
+.cc .ss
+{
+    float: left;
+    margin: 100px;
+    color: white;
+}
+.cc .pp
+{
+    float: left;
+    margin: 100px;
+    color: white;
+}
+
+.clr
+{
+    clear: both;
+}
+
+.jj
+{
+    text-align: center;
+    padding-top: 10%;
+}
+.test1
+{
+    background-color: 
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.member
+{
+    width: 25%;
+    border: solid 5px #fff;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    overflow: hidden;
+}
+
+.member img
+{
+    width: 100%;
+    transition-delay: 1s;
+}
+.member .caption
+{
+    background-color: rgba(42,63,85,0.7);
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    height: 100%;
+    width: 100%;
+    transition: all 1s;
+    opacity: 0;
+    
+}
+.member:hover .caption
+{
+    opacity: 1;
+    transform: rotate;
+}
+.member:hover img
+{
+    transition: scale(1.2,1.2);
+    }
+
+
+.caption p
+{
+    padding: 15px;
+    font-size: 18px;
+    position: relative;
+    left: 120%;
+    
+    
+}
+.member:hover .caption h2
+{
+    left: 0%;
+    
+}
+.member:hover .caption p
+{
+    left: 0%;
+}
+
+
+
+.rr
+{
+    
+        padding-top: 10%;
+        text-align: center;
+    background-color: darkgrey;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
